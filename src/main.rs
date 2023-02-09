@@ -1,7 +1,5 @@
 use dirs;
 use std::fs;
-use std::path::PathBuf;
-use std::time::SystemTime;
 use totp_rs::{Algorithm, TOTP, Secret};
 
 fn main() {
