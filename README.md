@@ -1,4 +1,4 @@
-# rust-quicktotp
+# rusty-quicktotp
 
 a Rust-ified version of a Ruby utility I used for years to quickly generate
 TOTP codes when I didn't have a Yubikey.
